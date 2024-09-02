@@ -1,15 +1,26 @@
 # Sorting Algorithms Visualizer
 
-
-https://github.com/user-attachments/assets/4f1f59a4-4976-4344-a7a6-162d1e4b89c9
-
-
 A powerful and interactive tool to visualize different sorting algorithms step-by-step. This project provides a graphical representation of popular sorting algorithms, making it easier to understand their inner workings and efficiency.
 
 ## Features
 
 - **Visualize Sorting Algorithms**: See how each sorting algorithm works.
 - **Multiple Algorithms Supported**: Bubble Sort, Merge Sort, Quick Sort, Insertion Sort, Selection Sort, and more.
+
+## Time and Space Complexities of Supported Algorithms
+
+| Algorithm       | Best Time Complexity | Average Time Complexity | Worst Time Complexity | Space Complexity |
+|-----------------|----------------------|--------------------------|------------------------|-------------------|
+| Bubble Sort     | O(n)                 | O(n²)                    | O(n²)                  | O(1)              |
+| Insertion Sort  | O(n)                 | O(n²)                    | O(n²)                  | O(1)              |
+| Selection Sort  | O(n²)                | O(n²)                    | O(n²)                  | O(1)              |
+| Merge Sort      | O(n log n)           | O(n log n)               | O(n log n)             | O(n)              |
+| Quick Sort      | O(n log n)           | O(n log n)               | O(n²)                  | O(log n)          |
+| Heap Sort       | O(n log n)           | O(n log n)               | O(n log n)             | O(1)              |
+
+
+- **n**: Number of elements to be sorted.
+- **k**: Range of the input.
 
 ## Installation
 
