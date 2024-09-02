@@ -3,7 +3,10 @@
 This project provides a graphical representation of popular sorting algorithms, making it easier to understand their inner workings and efficiency.
 
 
-Uploading 01-57-37.mp4…
+
+
+https://github.com/user-attachments/assets/9545e45e-06cf-4c4e-9d14-42dd080bbf7f
+
 
 
 ## Features
