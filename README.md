@@ -42,3 +42,7 @@ https://github.com/user-attachments/assets/9545e45e-06cf-4c4e-9d14-42dd080bbf7f
    ```bash
    git clone https://github.com/yourusername/SortingAlgorithmVisualizer.git
    cd SortingAlgorithmVisualizer
+
+2. **Run**:
+   ```bash
+   python src/main.py
