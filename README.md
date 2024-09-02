@@ -1,5 +1,9 @@
 # Sorting Algorithms Visualizer
 
+
+https://github.com/user-attachments/assets/4f1f59a4-4976-4344-a7a6-162d1e4b89c9
+
+
 A powerful and interactive tool to visualize different sorting algorithms step-by-step. This project provides a graphical representation of popular sorting algorithms, making it easier to understand their inner workings and efficiency.
 
 ## Features
